@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/static/css/main.be9b5d9f.css",
+    "main.js": "/static/js/main.79dddf62.js",
+    "static/media/1.png": "/static/media/1.142c29e7210701325871.png",
+    "static/media/phone.png": "/static/media/phone.9e41a8c7a9c9ada4d3b5.png",
+    "static/media/map.png": "/static/media/map.0a92be019e076709f758.png",
+    "static/media/faceBook.svg": "/static/media/faceBook.39e71a21c32b28f5b880e56ee02ea5b7.svg",
+    "static/media/qr-code.png": "/static/media/qr-code.49dab036b45f9fd8e710.png",
+    "static/media/desktop.png": "/static/media/desktop.0bda1116204a087d3129.png",
+    "static/media/nout.png": "/static/media/nout.d923741e700257e2ff61.png",
+    "static/media/vocume-cleaner.png": "/static/media/vocume-cleaner.facaf54d64ebc933c601.png",
+    "static/media/aspirador.png": "/static/media/aspirador.416c2df420693bae948a.png",
+    "static/media/watch.png": "/static/media/watch.f3444d046a7c1c4ef6e7.png",
+    "static/media/uzbekistan.png": "/static/media/uzbekistan.0b9d6fe9c18854556b04.png",
+    "static/media/united-kingdom.png": "/static/media/united-kingdom.b9a2ba74e5f8a55977e7.png",
+    "static/media/clothe-wather.png": "/static/media/clothe-wather.91a36232a1cfec23fca0.png",
+    "static/media/russia.png": "/static/media/russia.143e2d2b10c45cd59e9e.png",
+    "static/media/fridge.png": "/static/media/fridge.2f390c7e73a11216a7d9.png",
+    "static/media/aircondotioner.png": "/static/media/aircondotioner.b86df7bd9dadd6e815ff.png",
+    "static/media/google.svg": "/static/media/google.473c4859326350e8a3233b943e50ddf4.svg",
+    "index.html": "/index.html",
+    "static/media/aaa.svg": "/static/media/aaa.840e4bc80207a070dfed254582d5f996.svg",
+    "main.be9b5d9f.css.map": "/static/css/main.be9b5d9f.css.map",
+    "main.79dddf62.js.map": "/static/js/main.79dddf62.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.be9b5d9f.css",
+    "static/js/main.79dddf62.js"
+  ]
+}
